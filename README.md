@@ -15,7 +15,7 @@ COMPOUND ARITHMETIC:
 AND & OR ARRAY ELEMENTS:
      Array of boolean data is given as input,all the data in array is operated with corresponding operation.
 NUMBER TO ARRAY (or) vice versa:
-     If we give a numeric number,this function convert the number to boolean data in an array format with the help of LED lights (or)
+     If we give a numeric number,this function convert the number to boolean data in an array format  with the help of LED lights (or)
      vice versa.
 BOOLEAN TO (0,1):
      It is a function which converts boolean data to binary data (i.e.) True=1 ,False=0.
